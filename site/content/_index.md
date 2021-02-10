@@ -1,6 +1,6 @@
 ---
 title: Centre d'expertise et recherche en nutrition animale
-subtitle: Impulsons ensemble la science pour nourrit notre futur
+subtitle: Impulsons ensemble la science pour nourrir notre futur
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
